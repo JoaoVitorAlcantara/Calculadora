@@ -1,0 +1,12 @@
+div#display{
+    background-color: rgba(10, 10, 10, 0.904);
+    grid-column: span 4;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 6px;
+    font-size: 34px;
+    color: rgb(221, 224, 226);
+    font-family: 'Courier New', Courier, monospace;
+    overflow: hidden;
+}

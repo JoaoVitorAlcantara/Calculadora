@@ -1,0 +1,13 @@
+section#calculadora {
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(4, 60px);
+    grid-template-rows: 70px 50px 50px 50px 50px 50px;
+}
+div#back {
+    background-color: #E7E9BB;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+    
